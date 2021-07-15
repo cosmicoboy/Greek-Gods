@@ -1,4 +1,4 @@
-Page demo: https://hades-app.netlify.app/login
+Page demo: https://hades-app.netlify.app
 
 
 

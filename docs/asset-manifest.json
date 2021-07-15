@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.492b1f9e.chunk.css",
+    "main.js": "/static/js/main.2f82d57f.chunk.js",
+    "main.js.map": "/static/js/main.2f82d57f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0128bfa5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0128bfa5.js.map",
+    "static/js/2.17188180.chunk.js": "/static/js/2.17188180.chunk.js",
+    "static/js/2.17188180.chunk.js.map": "/static/js/2.17188180.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.492b1f9e.chunk.css.map": "/static/css/main.492b1f9e.chunk.css.map",
+    "static/js/2.17188180.chunk.js.LICENSE.txt": "/static/js/2.17188180.chunk.js.LICENSE.txt",
+    "static/media/Ct.Alecto.jpg": "/static/media/Ct.Alecto.a8976937.jpg",
+    "static/media/Ct.Chaos.jpg": "/static/media/Ct.Chaos.c44ad839.jpg",
+    "static/media/Ct.Charon.jpg": "/static/media/Ct.Charon.59261a96.jpg",
+    "static/media/Ct.Hades.jpg": "/static/media/Ct.Hades.2299b3f0.jpg",
+    "static/media/Ct.Hypnos.jpg": "/static/media/Ct.Hypnos.3dd3fd24.jpg",
+    "static/media/Ct.Megaera.jpg": "/static/media/Ct.Megaera.d791beb2.jpg",
+    "static/media/Ct.Nyx.jpg": "/static/media/Ct.Nyx.87607907.jpg",
+    "static/media/Ct.Thanatos.jpg": "/static/media/Ct.Thanatos.b6d7a425.jpg",
+    "static/media/Ct.Tisiphone.jpg": "/static/media/Ct.Tisiphone.592119e9.jpg",
+    "static/media/Ct.Zagreus.jpg": "/static/media/Ct.Zagreus.deba6df0.jpg",
+    "static/media/Logo.png": "/static/media/Logo.a0b2231f.png",
+    "static/media/olim.Aphrodite.jpg": "/static/media/olim.Aphrodite.fed596b5.jpg",
+    "static/media/olim.Ares.jpg": "/static/media/olim.Ares.517e7b59.jpg",
+    "static/media/olim.Artemis.jpg": "/static/media/olim.Artemis.c71eff2f.jpg",
+    "static/media/olim.Athena.jpg": "/static/media/olim.Athena.7ecc15e5.jpg",
+    "static/media/olim.Demeter.jpg": "/static/media/olim.Demeter.afffd8af.jpg",
+    "static/media/olim.Dionysus.jpg": "/static/media/olim.Dionysus.0c245421.jpg",
+    "static/media/olim.Hermes.jpg": "/static/media/olim.Hermes.2f1003a9.jpg",
+    "static/media/olim.Persephone_Portrait.jpg": "/static/media/olim.Persephone_Portrait.00cc8173.jpg",
+    "static/media/olim.Poseidon.jpg": "/static/media/olim.Poseidon.ad81c4e8.jpg",
+    "static/media/olim.Zeus.jpg": "/static/media/olim.Zeus.91c415c0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0128bfa5.js",
+    "static/js/2.17188180.chunk.js",
+    "static/css/main.492b1f9e.chunk.css",
+    "static/js/main.2f82d57f.chunk.js"
+  ]
+}
